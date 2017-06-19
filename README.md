@@ -139,9 +139,9 @@ Create folder /music
 ```sh
 $ mkdir music
 ```
-Copy files from "NuttxAD"/nuttx/other/audio_samples/ to /music folder of USB flash storage
+Copy files from <repo>/audio_samples/ to /music folder of USB flash storage
 ```sh
-$ cp "NuttxAD"/nuttx/other/audio_samples/* /mnt/media/music/
+$ cp <repo>/audio_samples/* /mnt/media/music/
 ```
 ### 8. Example usage CS43L22 Audio driver
 
